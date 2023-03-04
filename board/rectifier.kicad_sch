@@ -229,7 +229,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8cea4fe7-a0a0-4fcb-9abb-d3065f695538)
   )
-  (hierarchical_label "GND" (shape input) (at 156.21 149.86 0)
+  (hierarchical_label "PoE-" (shape input) (at 156.21 149.86 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9f12cfa5-88e6-4528-ba1e-34ddad42dadd)
   )
